@@ -6,7 +6,7 @@
 - JDK : 1.8 
 - All files are in the root directory ( Sorry )
 
-[](https://puu.sh/HkpE0/d5d707963f.png)
+![Game Capture](https://puu.sh/HkpE0/d5d707963f.png)
 
 
 
